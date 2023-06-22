@@ -1,107 +1,107 @@
 {
    "teams": [
       {
-         "name": "Team A",
+         "name": "Norge",
          "score": 100
       },
       {
-         "name": "Team B",
+         "name": "Sverige",
          "score": 150
       },
       {
-         "name": "Team D",
+         "name": "Pakistan",
          "score": 1345
       },
       {
-         "name": "Team E",
+         "name": "Finland",
          "score": 764
       },
       {
-         "name": "Team F",
+         "name": "Danmark",
          "score": 23
       },
       {
-         "name": "Team G",
+         "name": "Azerbajan",
          "score": 210
       },
       {
-         "name": "Team H",
+         "name": "England",
          "score": 122
       },
       {
-         "name": "Team I",
+         "name": "Tyskland",
          "score": 8765
       },
       {
-         "name": "Team I",
+         "name": "Frankrike",
          "score": 3467
       },
       {
-         "name": "Team J",
+         "name": "Spania",
          "score": 34
       },
       {
-         "name": "Team K",
+         "name": "Italia",
          "score": 863
       },
       {
-         "name": "Team L",
+         "name": "Irland",
          "score": 345
       },
       {
-         "name": "Team M",
+         "name": "Monocco",
          "score": 5654
       },
       {
-         "name": "Team N",
+         "name": "Tyrkia",
          "score": 13
       },
       {
-         "name": "Team O",
+         "name": "Island",
          "score": 3575
       },
       {
-         "name": "Team P",
+         "name": "Polen",
          "score": 46
       },
       {
-         "name": "Team Q",
+         "name": "India",
          "score": 185
       },
       {
-         "name": "Team Q",
+         "name": "brussel",
          "score": 643
       },
       {
-         "name": "Team R",
+         "name": "Portugal",
          "score": 145
       },
       {
-         "name": "Team S",
+         "name": "Usa",
          "score": 653
       },
       {
-         "name": "Team T",
+         "name": "Mexico",
          "score": 143
       },
       {
-         "name": "Team U",
+         "name": "Brasil",
          "score": 2134
       },
       {
-         "name": "Team W",
+         "name": "kanada",
          "score": 42
       },
       {
-         "name": "Team X",
+         "name": "Egypt",
          "score": 1350
       },
       {
-         "name": "Team Y",
+         "name": "Russland",
          "score": 10
       },
       {
-         "name": "Team Z",
+         "name": "Ukraina",
          "score": 120
       }
    ]
