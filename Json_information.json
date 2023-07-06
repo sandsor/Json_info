@@ -2,107 +2,133 @@
    "teams": [
       {
          "name": "Norge",
-         "score": 2000
+         "score": 2000,
+         "task": 6
       },
       {
          "name": "mexico",
-         "score": 150
+         "score": 150,
+         "task": 5
       },
       {
          "name": "Pakistan",
-         "score": 1345
+         "score": 1345,
+         "task": 4
       },
       {
          "name": "Finland",
-         "score": 764
+         "score": 764,
+         "task": 3
       },
       {
          "name": "Danmark",
-         "score": 23
+         "score": 23,
+         "task": 2
       },
       {
          "name": "Azerbajan",
-         "score": 210
+         "score": 210,
+         "task": 1
       },
       {
          "name": "England",
-         "score": 122
+         "score": 122,         
+         "task": 10
       },
       {
          "name": "Tyskland",
-         "score": 8765
+         "score": 8765,
+         "task": 9
       },
       {
          "name": "Frankrike",
-         "score": 3467
+         "score": 3467,
+         "task": 8
       },
       {
          "name": "Spania",
-         "score": 34
+         "score": 34,
+         "task": 7
       },
       {
          "name": "Italia",
-         "score": 863
+         "score": 863,
+         "task": 6
       },
       {
          "name": "Irland",
-         "score": 345
+         "score": 345,
+         "task": 5
       },
       {
          "name": "Monocco",
-         "score": 5654
+         "score": 5654,
+         "task": 4
       },
       {
          "name": "Tyrkia",
-         "score": 13
+         "score": 13,
+         "task": 3
       },
       {
          "name": "Island",
-         "score": 3575
+         "score": 3575,
+         "task": 2
       },
       {
          "name": "Polen",
-         "score": 46
+         "score": 46,
+         "task": 1
       },
       {
          "name": "India",
-         "score": 185
+         "score": 185,
+         "task": 10
       },
       {
          "name": "brussel",
-         "score": 643
+         "score": 643,
+         "task": 9
       },
       {
          "name": "Portugal",
-         "score": 145
+         "score": 145,
+         "task": 8
       },
       {
          "name": "Usa",
-         "score": 653
+         "score": 653,
+         "task": 7
       },
       {
          "name": "Mexico",
-         "score": 143
+         "score": 143,
+         "task": 6
       },
       {
          "name": "Brasil",
-         "score": 2134
+         "score": 2134,
+         "task": 5
       },
       {
          "name": "kanada",
-         "score": 42
+         "score": 42,
+         "task": 4
       },
       {
          "name": "Egypt",
-         "score": 1350
+         "score": 1350,
+         "task": 3
       },
       {
          "name": "Russland",
-         "score": 10
+         "score": 10,
+         "task": 2
       },
       {
          "name": "Ukraina",
-         "score": 120
+         "score": 120,
+         "task": 1
       }
    ]
 }
