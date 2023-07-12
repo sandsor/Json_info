@@ -1,133 +1,158 @@
 {
    "teams": [
       {
-         "name": "Norge",
+         "name": "Austria",
          "score": 2000,
          "task": 6
       },
       {
-         "name": "mexico",
+         "name": "Belgium",
          "score": 150,
          "task": 5
       },
       {
-         "name": "Pakistan",
+         "name": "Bulgaria",
          "score": 1345,
          "task": 4
       },
       {
-         "name": "Finland",
+         "name": "Cyprus",
          "score": 764,
          "task": 3
       },
       {
-         "name": "Danmark",
+         "name": "Czechia",
          "score": 23,
          "task": 2
       },
       {
-         "name": "Azerbajan",
+         "name": "Denmark",
          "score": 210,
          "task": 1
       },
       {
-         "name": "England",
+         "name": "Estonia",
          "score": 122,         
          "task": 10
       },
       {
-         "name": "Tyskland",
+         "name": "Finland",
          "score": 8765,
          "task": 9
       },
       {
-         "name": "Frankrike",
+         "name": "France",
          "score": 3467,
          "task": 8
       },
       {
-         "name": "Spania",
+         "name": "Germany",
          "score": 34,
          "task": 7
       },
       {
-         "name": "Italia",
+         "name": "Greece",
          "score": 863,
          "task": 6
       },
       {
-         "name": "Irland",
+         "name": "Hungary",
          "score": 345,
          "task": 5
       },
       {
-         "name": "Monocco",
+         "name": "Iceland",
          "score": 5654,
          "task": 4
       },
       {
-         "name": "Tyrkia",
+         "name": "Ireland",
          "score": 13,
          "task": 3
       },
       {
-         "name": "Island",
+         "name": "Italy",
          "score": 3575,
          "task": 2
       },
       {
-         "name": "Polen",
+         "name": "Liechtenstein",
          "score": 46,
          "task": 1
       },
       {
-         "name": "India",
+         "name": "Luxemburg",
          "score": 185,
          "task": 10
       },
       {
-         "name": "brussel",
+         "name": "Netherlands",
          "score": 643,
          "task": 9
       },
       {
-         "name": "Portugal",
+         "name": "Norway",
          "score": 145,
          "task": 8
       },
       {
-         "name": "Usa",
+         "name": "Poland",
          "score": 653,
          "task": 7
       },
       {
-         "name": "Mexico",
+         "name": "Portugal",
          "score": 143,
          "task": 6
       },
       {
-         "name": "Brasil",
+         "name": "Romania",
          "score": 2134,
          "task": 5
       },
       {
-         "name": "kanada",
+         "name": "Slovakia",
          "score": 42,
          "task": 4
       },
       {
-         "name": "Egypt",
+         "name": "Slovenia",
          "score": 1350,
          "task": 3
       },
       {
-         "name": "Russland",
+         "name": "Spain",
          "score": 10,
          "task": 2
       },
       {
-         "name": "Ukraina",
-         "score": 120,
+         "name": "Sweden",
+         "score": 520,
+         "task": 1
+      },
+      {
+         "name": "Switzerland",
+         "score": 2320,
+         "task": 5
+      },
+      {
+         "name": "Canada",
+         "score": 340,
+         "task": 4
+      },
+      {
+         "name": "Georgia",
+         "score": 1240,
+         "task": 3
+      },
+      {
+         "name": "Serbia",
+         "score": 1220,
+         "task": 2
+      },
+      {
+         "name": "USA",
+         "score": 102,
          "task": 1
       }
    ]
