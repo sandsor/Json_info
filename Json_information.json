@@ -2,163 +2,195 @@
    "teams": [
       {
          "name": "Austria",
-         "score": 2000,
-         "task": 6
+         "score": 2,
+         "task": 1,
+         "rank": 31
       },
       {
          "name": "Belgium",
          "score": 150,
-         "task": 5
+         "task": 5,
+         "rank": 20
       },
       {
          "name": "Bulgaria",
          "score": 1345,
-         "task": 4
+         "task": 4,
+         "rank": 8
       },
       {
          "name": "Cyprus",
          "score": 764,
-         "task": 3
+         "task": 3,
+         "rank": 12
       },
       {
          "name": "Czechia",
          "score": 23,
-         "task": 2
+         "task": 2,
+         "rank": 28
       },
       {
          "name": "Denmark",
          "score": 210,
-         "task": 1
+         "task": 1,
+         "rank": 18
       },
       {
          "name": "Estonia",
          "score": 122,         
-         "task": 10
+         "task": 10,
+         "rank": 23
       },
       {
          "name": "Finland",
          "score": 8765,
-         "task": 9
+         "task": 9,
+         "rank": 1
       },
       {
          "name": "France",
          "score": 3467,
-         "task": 8
+         "task": 8,
+         "rank": 4
       },
       {
          "name": "Germany",
          "score": 34,
-         "task": 7
+         "task": 7,
+         "rank": 27
       },
       {
          "name": "Greece",
          "score": 863,
-         "task": 6
+         "task": 6,
+         "rank": 11
       },
       {
          "name": "Hungary",
          "score": 345,
-         "task": 5
+         "task": 5,
+         "rank": 16
       },
       {
          "name": "Iceland",
          "score": 5654,
-         "task": 4
+         "task": 4,
+         "rank": 2
       },
       {
          "name": "Ireland",
          "score": 13,
-         "task": 3
+         "task": 3,
+         "rank": 29
       },
       {
          "name": "Italy",
          "score": 3575,
-         "task": 2
+         "task": 2,
+         "rank": 3
       },
       {
          "name": "Liechtenstein",
          "score": 46,
-         "task": 1
+         "task": 1,
+         "rank": 25
       },
       {
          "name": "Luxemburg",
          "score": 185,
-         "task": 10
+         "task": 10,
+         "rank": 19
       },
       {
          "name": "Netherlands",
          "score": 643,
-         "task": 9
+         "task": 9,
+         "rank": 14
       },
       {
          "name": "Norway",
          "score": 145,
-         "task": 8
+         "task": 8,
+         "rank": 21
       },
       {
          "name": "Poland",
          "score": 653,
-         "task": 7
+         "task": 7,
+         "rank": 13
       },
       {
          "name": "Portugal",
          "score": 143,
-         "task": 6
+         "task": 6,
+         "rank": 22
       },
       {
          "name": "Romania",
          "score": 2134,
-         "task": 5
+         "task": 5,
+         "rank": 6
       },
       {
          "name": "Slovakia",
          "score": 42,
-         "task": 4
+         "task": 4,
+         "rank": 26
       },
       {
          "name": "Slovenia",
          "score": 1350,
-         "task": 3
+         "task": 3,
+         "rank": 7
       },
       {
          "name": "Spain",
          "score": 10,
-         "task": 2
+         "task": 2,
+         "rank": 130
       },
       {
          "name": "Sweden",
          "score": 520,
-         "task": 1
+         "task": 1,
+         "rank": 15
       },
       {
          "name": "Switzerland",
          "score": 2320,
-         "task": 5
+         "task": 5,
+         "rank": 5
       },
       {
          "name": "Canada",
          "score": 340,
-         "task": 4
+         "task": 4,
+         "rank": 17
       },
       {
          "name": "Georgia",
          "score": 1240,
-         "task": 3
+         "task": 3,
+         "rank": 9
       },
       {
          "name": "Serbia",
          "score": 1220,
-         "task": 2
+         "task": 2,
+         "rank": 10
       },
       {
          "name": "USA",
          "score": 102,
-         "task": 1
+         "task": 1,
+         "rank": 24
       },
       {
          "name": "USA",
          "score": 102,
-         "task": 1
+         "task": 1,
+         "rank": 24
       }
    ]
 }
