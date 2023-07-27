@@ -1,0 +1,228 @@
+{
+   "teams": [
+      {
+         "name": "Austria",
+         "score": 1560,
+         "task": 5,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Belgium",
+         "score": 571,
+         "task": 11,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Bulgaria",
+         "score": 2012,
+         "task": 10,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Cyprus",
+         "score": 960,
+         "task": 9,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Czechia",
+         "score": 660,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Denmark",
+         "score": 1147,
+         "task": 2,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Estonia",
+         "score": 453,
+         "task": 6,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Finland",
+         "score": 9798,
+         "task": 12,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "France",
+         "score": 4225,
+         "task": 8,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Germany",
+         "score": 775,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Greece",
+         "score": 1416,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Hungary",
+         "score": 1442,
+         "task": 11,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Iceland",
+         "score": 6095,
+         "task": 5,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Ireland",
+         "score": 186,
+         "task": 10,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Italy",
+         "score": 3652,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Liechtenstein",
+         "score": 489,
+         "task": 9,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Luxembourg",
+         "score": 944,
+         "task": 12,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Netherlands",
+         "score": 1651,
+         "task": 4,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Norway",
+         "score": 1195,
+         "task": 10,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Poland",
+         "score": 1886,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Portugal",
+         "score": 916,
+         "task": 4,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Romania",
+         "score": 2751,
+         "task": 8,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Slovakia",
+         "score": 587,
+         "task": 8,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Slovenia",
+         "score": 1707,
+         "task": 11,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Spain",
+         "score": 485,
+         "task": 3,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Sweden",
+         "score": 1731,
+         "task": 4,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Switzerland",
+         "score": 2821,
+         "task": 6,
+         "rank": 0,
+         "IsGuest": false
+      },
+      {
+         "name": "Canada",
+         "score": 971,
+         "task": 11,
+         "rank": 0,
+         "IsGuest": true
+      },
+      {
+         "name": "Georgia",
+         "score": 1606,
+         "task": 12,
+         "rank": 0,
+         "IsGuest": true
+      },
+      {
+         "name": "Serbia",
+         "score": 1707,
+         "task": 12,
+         "rank": 0,
+         "IsGuest": true
+      },
+      {
+         "name": "USA",
+         "score": 1559,
+         "task": 5,
+         "rank": 0,
+         "IsGuest": true
+      },
+      {
+         "name": "USA",
+         "score": 447,
+         "task": 7,
+         "rank": 0,
+         "IsGuest": true
+      }
+   ]
+}
