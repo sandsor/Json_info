@@ -32,7 +32,7 @@
          "name": "Czechia",
          "score": 23,
          "task": 2,
-         "rank": 25,
+         "rank": 24,
          "IsGuest": false
       },
       {
@@ -67,7 +67,7 @@
          "name": "Germany",
          "score": 34,
          "task": 7,
-         "rank": 24,
+         "rank": 23,
          "IsGuest": false
       },
       {
@@ -95,7 +95,7 @@
          "name": "Ireland",
          "score": 13,
          "task": 3,
-         "rank": 26,
+         "rank": 25,
          "IsGuest": false
       },
       {
@@ -172,7 +172,7 @@
          "name": "Spain",
          "score": 10,
          "task": 2,
-         "rank": 27,
+         "rank": 26,
          "IsGuest": false
       },
       {
