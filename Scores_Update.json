@@ -1,0 +1,57 @@
+{
+	"team": [{
+			"id": "NO",
+			"day": 1,
+			"tick": 0,
+			"rank": 2,
+			"score": 2000,
+			"guest": false,
+			"data": [{
+					"id": 0,
+					"name": "Task 1",
+					"type": "challenge",
+					"state": "solved"
+				},
+				{
+					"id": 1,
+					"name": "Task 2",
+					"type": "challenge",
+					"state": "solved"
+				},
+				{
+					"id": 2,
+					"name": "Task 3",
+					"type": "challenge",
+					"state": "solved"
+				}
+			]
+		},
+		{
+			"id": "DK",
+			"day": 1,
+			"tick": 0,
+			"rank": 15,
+			"score": 123,
+			"guest": false,
+			"data": [{
+					"id": 0,
+					"name": "Task 1",
+					"type": "challenge",
+					"state": "solved"
+				},
+				{
+					"id": 1,
+					"name": "Task 2",
+					"type": "challenge",
+					"state": "solved"
+				},
+				{
+					"id": 2,
+					"name": "Task 3",
+					"type": "challenge",
+					"state": "solved"
+				}
+			]
+		}
+	]
+}
