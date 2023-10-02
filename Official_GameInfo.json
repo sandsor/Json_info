@@ -1,0 +1,73 @@
+{
+  "name": "ECSC 2023",
+  "timezone": "CEST",
+  "updated": "2023-09-25 09:25:00",
+  "days": [
+    {
+      "day": 1,
+      "type": "jeopardy",
+      "challenges": 20,
+      "tick_length": 180,
+      "start": "2023-10-24 12:30:00",
+      "end": "2023-10-24 19:00:00",
+      "freeze": {
+        "start": null,
+        "end": null
+      },
+      "breaks": [
+        {
+          "break": 1,
+          "reason": "Food served",
+          "start": "2023-10-24 15:30:00",
+          "end": "2023-10-24 16:00:00"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "ad",
+      "challenges": 7,
+      "tick_length": 180,
+      "start": "2023-10-25 09:00:00",
+      "end": "2023-10-25 19:00:00",
+      "freeze": {
+        "start": null,
+        "end": null
+      },
+      "breaks": [
+        {
+          "break": 1,
+          "reason": "Food served",
+          "start": "2023-10-25 12:00:00",
+          "end": "2023-10-25 12:30:00"
+        },
+        {
+          "break": 2,
+          "reason": "Food served",
+          "start": "2023-10-25 15:30:00",
+          "end": "2023-10-25 16:00:00"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "jeopardy",
+      "challenges": 22,
+      "tick_length": 180,
+      "start": "2023-10-26 09:00:00",
+      "end": "2023-10-26 15:30:00",
+      "freeze": {
+        "start": "2023-10-26 13:30:00",
+        "end": "2023-10-26 23:30:00"
+      },
+      "breaks": [
+        {
+          "break": 1,
+          "reason": "Food served",
+          "start": "2023-10-26 12:00:00",
+          "end": "2023-10-26 12:30:00"
+        }
+      ]
+    }
+  ]
+}
