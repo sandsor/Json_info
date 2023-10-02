@@ -1,0 +1,55 @@
+{
+  "rankings": [
+    {
+      "day": 1,
+      "description": "Overall ranking after first day",
+      "time": "2023-10-24 19:10:11",
+      "ranks": [
+        {"team": "NOR", "rank":  1, "normalized_scores": [{"1": 5555}] },
+        {"team": "SWE", "rank":  2, "normalized_scores": [{"1": 5555}] },
+        {"team": "FIN", "rank":  3, "normalized_scores": [{"1": 5555}] },
+        {"team": "DNK", "rank":  4, "normalized_scores": [{"1": 5555}] },
+        {"team": "ISL", "rank":  5, "normalized_scores": [{"1": 5555}] }
+      ],
+      "guests": [
+        {"team": "USA", "rank":  1, "normalized_scores": [{"1": 5555}] },
+        {"team": "CAN", "rank":  2, "normalized_scores": [{"1": 5555}] },
+        {"team": "CRI", "rank":  3, "normalized_scores": [{"1": 5555}] }
+      ]
+    },
+    {
+      "day": 2,
+      "description": "Overall ranking after second day",
+      "time": "2023-10-25 19:33:11",
+      "ranks": [
+        {"team": "NOR", "rank":  1, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "SWE", "rank":  2, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "FIN", "rank":  3, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "DNK", "rank":  4, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "ISL", "rank":  5, "normalized_scores": [{"1": 5555}, {"2": 10101}] }
+      ],
+      "guests": [
+        {"team": "USA", "rank":  1, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "CAN", "rank":  2, "normalized_scores": [{"1": 5555}, {"2": 10101}] },
+        {"team": "CRI", "rank":  3, "normalized_scores": [{"1": 5555}, {"2": 10101}] }
+      ]
+    },
+    {
+      "day": 3,
+      "description": "Overall ranking after third and final day",
+      "time": "2023-10-26 23:33:11",
+      "ranks": [
+        {"team": "NOR", "rank":  1, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "SWE", "rank":  2, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "FIN", "rank":  3, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "DNK", "rank":  4, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "ISL", "rank":  5, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] }
+      ],
+      "guests": [
+        {"team": "USA", "rank":  1, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "CAN", "rank":  2, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] },
+        {"team": "CRI", "rank":  3, "normalized_scores": [{"1": 5555}, {"2": 10101}, {"3": 5555}] }
+      ]
+    }
+  ]
+}
