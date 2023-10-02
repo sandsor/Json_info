@@ -1,4 +1,3 @@
-[
   {
     "day": 1,
     "type": "jeopardy",
@@ -42,4 +41,3 @@
       {"team": "CRI", "position":  3, "score": 3210, "solves": 7 }
     ]
   }
-]
