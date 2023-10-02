@@ -1,0 +1,45 @@
+[
+  {
+    "day": 1,
+    "type": "jeopardy",
+    "tick": 99,
+    "time": "2023-10-24 17:33:11",
+    "scores": [
+      {"team": "AUT", "position": 1, "score": 5000, "solves": 15},
+      {"team": "BEL", "position": 2, "score": 4500, "solves": 14},
+      {"team": "BGR", "position": 3, "score": 4231, "solves": 13},
+      {"team": "CYP", "position": 4, "score": 4134, "solves": 12},
+      {"team": "CZE", "position": 5, "score": 3150, "solves": 11},
+      {"team": "DNK", "position": 6, "score": 3100, "solves": 11},
+      {"team": "EST", "position": 7, "score": 2974, "solves": 10},
+      {"team": "FIN", "position": 8, "score": 2842, "solves": 10},
+      {"team": "DEU", "position": 9, "score": 2734, "solves": 9},
+      {"team": "GRC", "position": 10, "score": 2423, "solves": 9},
+      {"team": "HUN", "position": 11, "score": 1923, "solves": 8},
+      {"team": "ISL", "position": 12, "score": 1683, "solves": 8},
+      {"team": "IRL", "position": 13, "score": 1356, "solves": 8},
+      {"team": "ITA", "position": 14, "score": 842, "solves": 7},
+      {"team": "LIE", "position": 15, "score": 783, "solves": 6},
+      {"team": "LUX", "position": 16, "score": 600, "solves": 6},
+      {"team": "NLD", "position": 17, "score": 598, "solves": 3},
+      {"team": "NOR", "position": 18, "score": 587, "solves": 4},
+      {"team": "POL", "position": 19, "score": 523, "solves": 4},
+      {"team": "PRT", "position": 20, "score": 490, "solves": 5},
+      {"team": "ROU", "position": 21, "score": 333, "solves": 2},
+      {"team": "SVK", "position": 22, "score": 293, "solves": 3},
+      {"team": "SVN", "position": 23, "score": 286, "solves": 4},
+      {"team": "ESP", "position": 24, "score": 186, "solves": 4},
+      {"team": "SWE", "position": 25, "score": 113, "solves": 3},
+      {"team": "CHE", "position": 26, "score": 70, "solves": 2},
+      {"team": "GEO", "position": 27, "score": 60, "solves": 2},
+      {"team": "SRB", "position": 28, "score": 40, "solves": 2},
+      {"team": "FRA", "position": 29, "score": 20, "solves": 1}
+    ],
+    "guests":
+    [
+      {"team": "USA", "position":  1, "score": 5432, "solves": 16 },
+      {"team": "CAN", "position":  2, "score": 4321, "solves": 12 },
+      {"team": "CRI", "position":  3, "score": 3210, "solves": 7 }
+    ]
+  }
+]
