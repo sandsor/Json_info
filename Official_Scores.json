@@ -1,0 +1,64 @@
+[
+  {
+    "day": 1,
+    "type": "jeopardy",
+    "tick": 99,
+    "time": "2023-10-24 17:33:11",
+    "scores":
+            [
+              {"team": "NOR", "position":  1, "score": 5555, "solves": 12 },
+              {"team": "SWE", "position":  2, "score": 4444, "solves": 10 },
+              {"team": "FIN", "position":  3, "score": 3333, "solves": 6 },
+              {"team": "DNK", "position":  4, "score": 2222, "solves": 5 },
+              {"team": "ISL", "position":  5, "score": 1111, "solves": 3 }
+            ],
+    "guests":
+            [
+              {"team": "USA", "position":  1, "score": 5432, "solves": 11 },
+              {"team": "CAN", "position":  2, "score": 4321, "solves": 9 },
+              {"team": "CRI", "position":  3, "score": 3210, "solves": 4 }
+            ]
+  },
+
+  {
+    "day": 2,
+    "type": "ad",
+    "tick": 99,
+    "time": "2023-10-25 17:33:11",
+    "scores":
+            [
+              {"team": "NOR", "position":  1, "score": 5555, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "SWE", "position":  2, "score": 4444, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "FIN", "position":  3, "score": 3333, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "DNK", "position":  4, "score": 2222, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "ISL", "position":  5, "score": 1111, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] }
+            ],
+    "guests":
+            [
+              {"team": "USA", "position":  1, "score": 5432, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "CAN", "position":  2, "score": 4321, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] },
+              {"team": "CRI", "position":  3, "score": 3210, "services": [{"1": "up"}, {"2": "down"}, {"3": "failed"}, {"4": "recovering"}, {"5": "up"}] }
+            ]
+  },
+
+  {
+    "day": 3,
+    "type": "jeopardy",
+    "tick": 99,
+    "time": "2023-10-24 17:33:11",
+    "scores":
+            [
+              {"team": "NOR", "position":  1, "score": 5555, "solves": 12 },
+              {"team": "SWE", "position":  2, "score": 4444, "solves": 10 },
+              {"team": "FIN", "position":  3, "score": 3333, "solves": 6 },
+              {"team": "DNK", "position":  4, "score": 2222, "solves": 5 },
+              {"team": "ISL", "position":  5, "score": 1111, "solves": 3 }
+            ],
+    "guests":
+            [
+              {"team": "USA", "position":  1, "score": 5432, "solves": 11 },
+              {"team": "CAN", "position":  2, "score": 4321, "solves": 9 },
+              {"team": "CRI", "position":  3, "score": 3210, "solves": 4 }
+            ]
+  }
+]
