@@ -1,1 +1,49 @@
-
+{
+    "day": 1,
+    "type": "jeopardy",
+    "tick": 101,
+    "time": "2023-10-24 17:33:11",
+    "scores": [
+      {"team": "FIN", "position": 1, "score": 5205, "solves": 19},
+      {"team": "AUT", "position": 2, "score": 5101, "solves": 18},
+      {"team": "BEL", "position": 3, "score": 4622, "solves": 16},
+      {"team": "BGR", "position": 4, "score": 4610, "solves": 15},
+      {"team": "DNK", "position": 5, "score": 4220, "solves": 13},
+      {"team": "CZE", "position": 6, "score": 4215, "solves": 13},
+      {"team": "ITA", "position": 7, "score": 4145, "solves": 10},
+      {"team": "CYP", "position": 8, "score": 4140, "solves": 14},
+      {"team": "DEU", "position": 9, "score": 3010, "solves": 11},
+      {"team": "LIE", "position": 10, "score": 3005, "solves": 9},
+      {"team": "EST", "position": 11, "score": 3000, "solves": 12},
+      {"team": "HUN", "position": 12, "score": 2999, "solves": 10},
+      {"team": "IRL", "position": 13, "score": 2995, "solves": 10},
+      {"team": "GRC", "position": 14, "score": 2500, "solves": 11},
+      {"team": "ISL", "position": 15, "score": 2499, "solves": 10},
+      {"team": "NLD", "position": 16, "score": 1999, "solves": 5},
+      {"team": "PRT", "position": 17, "score": 1900, "solves": 7},
+      {"team": "NOR", "position": 18, "score": 1200, "solves": 6},
+      {"team": "LUX", "position": 19, "score": 610, "solves": 8},
+      {"team": "POL", "position": 20, "score": 599, "solves": 6},
+      {"team": "ROU", "position": 21, "score": 589, "solves": 4},
+      {"team": "SVN", "position": 22, "score": 378, "solves": 6},
+      {"team": "SVK", "position": 23, "score": 350, "solves": 5},
+      {"team": "ESP", "position": 24, "score": 345, "solves": 6},
+      {"team": "HRV", "position": 25, "score": 220, "solves": 4},
+      {"team": "CHE", "position": 26, "score": 215, "solves": 4},
+      {"team": "FRA", "position": 27, "score": 210, "solves": 3},
+      {"team": "SWE", "position": 28, "score": 200, "solves": 5}
+    ],
+    "guests":
+    [
+      {"team": "GEO", "position":  1, "score": 5999, "solves": 18 },
+      {"team": "SRB", "position":  2, "score": 5600, "solves": 17 },
+      {"team": "USA", "position":  3, "score": 5501, "solves": 17 },
+      {"team": "CRI", "position":  4, "score": 4501, "solves": 15 },
+      {"team": "CAN", "position":  5, "score": 4498, "solves": 13 },
+      {"team": "ISR", "position":  6, "score": 3345, "solves": 8 },
+      {"team": "SGP", "position":  7, "score": 3331, "solves": 6 },
+      {"team": "ARE", "position":  8, "score": 3256, "solves": 6 },
+      {"team": "KOR", "position":  9, "score": 3234, "solves": 5 }
+       
+    ]
+  }
