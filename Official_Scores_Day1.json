@@ -1,4 +1,4 @@
-  {
+{
     "day": 1,
     "type": "jeopardy",
     "tick": 99,
@@ -30,14 +30,20 @@
       {"team": "ESP", "position": 24, "score": 186, "solves": 4},
       {"team": "SWE", "position": 25, "score": 113, "solves": 3},
       {"team": "CHE", "position": 26, "score": 70, "solves": 2},
-      {"team": "GEO", "position": 27, "score": 60, "solves": 2},
-      {"team": "SRB", "position": 28, "score": 40, "solves": 2},
-      {"team": "FRA", "position": 29, "score": 20, "solves": 1}
+      {"team": "HRV", "position": 27, "score": 60, "solves": 2},
+      {"team": "FRA", "position": 28, "score": 20, "solves": 1}
     ],
     "guests":
     [
       {"team": "USA", "position":  1, "score": 5432, "solves": 16 },
       {"team": "CAN", "position":  2, "score": 4321, "solves": 12 },
-      {"team": "CRI", "position":  3, "score": 3210, "solves": 7 }
+      {"team": "CRI", "position":  3, "score": 3210, "solves": 7 },
+      {"team": "SRB", "position":  5, "score": 3209, "solves": 6 },
+      {"team": "GEO", "position":  6, "score": 3200, "solves": 5 },
+      {"team": "ISR", "position":  7, "score": 3199, "solves": 4 },
+      {"team": "SGP", "position":  8, "score": 3180, "solves": 3 },
+      {"team": "KOR", "position":  9, "score": 3179, "solves": 3 },
+      {"team": "ARE", "position":  10, "score": 3100, "solves": 1 }
+       
     ]
   }
