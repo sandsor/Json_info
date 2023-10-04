@@ -2,7 +2,7 @@
     "day": 1,
     "type": "jeopardy",
     "tick": 99,
-    "time": "2023-10-24 17:33:11",
+    "time": "2020-02-08 09:30:26",
     "scores": [
       {"team": "AUT", "position": 1, "score": 5000, "solves": 15},
       {"team": "BEL", "position": 2, "score": 4500, "solves": 14},
