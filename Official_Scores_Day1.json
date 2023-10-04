@@ -2,7 +2,7 @@
     "day": 1,
     "type": "jeopardy",
     "tick": 99,
-    "time": "2000-W03-7T01:23:45.678Z",
+    "time": "2023.10.04-12.30.00 +0100",
     "scores": [
       {"team": "AUT", "position": 1, "score": 5000, "solves": 15},
       {"team": "BEL", "position": 2, "score": 4500, "solves": 14},
