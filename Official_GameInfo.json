@@ -10,10 +10,12 @@
       "tick_length": 180,
       "start": "2023-10-24 12:30:00",
       "end": "2023-10-24 19:00:00",
-      "freeze": [{
-        "start": null,
-        "end": null
-        ]},
+      "freeze": [
+        {
+          "start": null,
+          "end": null
+        }
+      ],
       "breaks": [
         {
           "break": 1,
@@ -30,10 +32,12 @@
       "tick_length": 180,
       "start": "2023-10-25 09:00:00",
       "end": "2023-10-25 19:00:00",
-      "freeze": {
-        "start": null,
-        "end": null
-      },
+      "freeze": [
+        {
+          "start": null,
+          "end": null
+        }
+      ],
       "breaks": [
         {
           "break": 1,
@@ -56,10 +60,12 @@
       "tick_length": 180,
       "start": "2023-10-26 09:00:00",
       "end": "2023-10-26 15:30:00",
-      "freeze": {
-        "start": "2023-10-26 13:30:00",
-        "end": "2023-10-26 23:30:00"
-      },
+      "freeze": [
+        {
+          "start": "2023-10-26 13:30:00",
+          "end": "2023-10-26 23:30:00"
+        }
+      ],
       "breaks": [
         {
           "break": 1,
