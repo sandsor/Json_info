@@ -1,0 +1,127 @@
+{
+    "day": 1,
+    "type": "Jeopardy",
+    "time": "2019-08-24T14:15:22Z",
+    "main": [
+        {
+            "challenge": 1,
+            "category": "Stress",
+            "name": "Keep Calm",
+            "solves": 26
+        },
+        {
+            "challenge": 2,
+            "category": "Depression",
+            "name": "Crying",
+            "solves": 3
+        },
+        {
+            "challenge": 3,
+            "category": "Agony",
+            "name": "Sleep",
+            "solves": 15
+        },
+        {
+            "challenge": 4,
+            "category": "Overload",
+            "name": "Feeling Empty",
+            "solves": 19
+        },
+        {
+            "challenge": 5,
+            "category": "Overwhelmed",
+            "name": "Work",
+            "solves": 3
+        },
+        {
+            "challenge": 6,
+            "category": "Stress",
+            "name": "Panic",
+            "solves": 11
+        },
+        {
+            "challenge": 7,
+            "category": "Depression",
+            "name": "Sadness",
+            "solves": 5
+        },
+        {
+            "challenge": 8,
+            "category": "Agony",
+            "name": "Good riddance",
+            "solves": 17
+        },
+        {
+            "challenge": 9,
+            "category": "Overload",
+            "name": "Fatigue",
+            "solves": 28
+        },
+        {
+            "challenge": 10,
+            "category": "Overwhelmed",
+            "name": "Keep working",
+            "solves": 25
+        },
+        {
+            "challenge": 11,
+            "category": "Stress",
+            "name": "Fidget",
+            "solves": 8
+        },
+        {
+            "challenge": 12,
+            "category": "Depression",
+            "name": "Lonely",
+            "solves": 12
+        },
+        {
+            "challenge": 13,
+            "category": "Agony",
+            "name": "Why??",
+            "solves": 27
+        },
+        {
+            "challenge": 14,
+            "category": "Overload",
+            "name": "Sick",
+            "solves": 9
+        },
+        {
+            "challenge": 15,
+            "category": "Overwhelmed",
+            "name": "This is fine",
+            "solves": 2
+        },
+        {
+            "challenge": 16,
+            "category": "Stress",
+            "name": "Overeating",
+            "solves": 4
+        },
+        {
+            "challenge": 17,
+            "category": "Depression",
+            "name": "Hungry",
+            "solves": 21
+        },
+        {
+            "challenge": 18,
+            "category": "Agony",
+            "name": "When will it end?",
+            "solves": 23
+        },
+        {
+            "challenge": 19,
+            "category": "Overload",
+            "name": "Giving up",
+            "solves": 14
+        },
+        {
+            "challenge": 20,
+            "category": "Overwhelmed",
+            "name": "Done.",
+            "solves": 0
+        }
+    ]
+}
