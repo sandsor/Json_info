@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "id": "01",
+      "Tags": 
+      "image_Nmbr": 1,
+      "Text": "Sanningen om klimatförändringar undertrycks av de industrier som tjänar på förstörelsen. Vakna innan det är för sent! #EcoKrigare",
+      "PublicComments": [ 
+        {
+          "PC_1": "Det är därför vi måste agera nu! 🌎 #KlimatÅtgärd",
+          "PC_2": "Predika! 🙌 Jorden kan inte vänta på att vi ska få ordning på saker. #RäddaJorden",
+          "PC_3": "I Ryssland är vi vana vid hårt klimat, men global förändring påverkar oss alla. Måste agera globalt. #GlobalUtmaning"
+        }
+      ],
+      "DTactic": "Emotional",
+      "Credibility": 3,
+      "Followers": 120,
+      "IsSparkingArgument": true
+    },
+  ]
+}
