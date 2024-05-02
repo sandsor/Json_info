@@ -6,30 +6,38 @@
       "imageCount": 1,
       "text": {
         "en": "The truth about climate change is being suppressed by industries that profit from destruction. Wake up before it's too late!",
-        "sv": "Sanningen om klimatförändringar undertrycks av de industrier som tjänar på förstörelsen. Vakna innan det är för sent!"
+        "sv": "Sanningen om klimatförändringar undertrycks av de industrier som tjänar på förstörelsen. Vakna innan det är för sent!",
+        "fr": "La vérité sur le changement climatique est supprimée par les industries qui profitent de la destruction. Réveillez-vous avant qu'il ne soit trop tard!",
+        "no": "Sannheten om klimaendringer undertrykkes av industrier som tjener på ødeleggelsen. Våkn opp før det er for sent!"
       },
       "publicComments": [
         {
-          "commentId": "001",
+          "commentId": "1001",
           "text": {
             "en": "That's why we need to act now! 🌎 #ClimateAction",
-            "sv": "Det är därför vi måste agera nu! 🌎 #KlimatÅtgärd"
+            "sv": "Det är därför vi måste agera nu! 🌎 #KlimatÅtgärd",
+            "fr": "C'est pourquoi nous devons agir maintenant ! 🌎 #ActionClimatique",
+            "no": "Det er derfor vi må handle nå! 🌎 #KlimaTiltak"
           },
           "likes": 150
         },
         {
-          "commentId": "002",
+          "commentId": "1002",
           "text": {
             "en": "Preach! 🙌 The Earth cannot wait for us to get our act together. #SaveEarth",
-            "sv": "Predika! 🙌 Jorden kan inte vänta på att vi ska få ordning på saker. #RäddaJorden"
+            "sv": "Predika! 🙌 Jorden kan inte vänta på att vi ska få ordning på saker. #RäddaJorden",
+            "fr": "Prêchez! 🙌 La Terre ne peut pas attendre que nous agissions. #SauverLaTerre",
+            "no": "Predik! 🙌 Jorden kan ikke vente på at vi skal få orden på ting. #ReddJorden"
           },
           "likes": 230
         },
         {
-          "commentId": "003",
+          "commentId": "1003",
           "text": {
             "en": "In Russia, we are used to harsh climates, but global change affects us all. Must act globally. #GlobalChallenge",
-            "sv": "I Ryssland är vi vana vid hårt klimat, men global förändring påverkar oss alla. Måste agera globalt. #GlobalUtmaning"
+            "sv": "I Ryssland är vi vana vid hårt klimat, men global förändring påverkar oss alla. Måste agera globalt. #GlobalUtmaning",
+            "fr": "En Russie, nous sommes habitués aux climats rudes, mais le changement global nous affecte tous. Nous devons agir globalement. #DéfiGlobal",
+            "no": "I Russland er vi vant til harde klimaer, men global endring påvirker oss alle. Må handle globalt. #GlobalUtfordring"
           },
           "likes": 120
         }
@@ -37,9 +45,45 @@
       "disseminationTactic": "Emotional",
       "credibilityRating": 3,
       "followerCount": 120,
-      "isSparkingDebate": true,
-      "eventDate": "2024-05-01",
-      "sourceURL": "http://example.com/detail/event01"
+      "isSparkingDebate": true
+    },
+    {
+      "id": "02",
+      "tags": ["UrbanRenewal", "GreenCities", "SustainableDevelopment"],
+      "imageCount": 2,
+      "text": {
+        "en": "Transforming urban spaces into green havens can revolutionize our cities. Let's build a sustainable future together!",
+        "sv": "Att omvandla urbana utrymmen till gröna tillflyktsorter kan revolutionera våra städer. Låt oss bygga en hållbar framtid tillsammans!",
+        "fr": "Transformer les espaces urbains en havres verts peut révolutionner nos villes. Construisons ensemble un avenir durable!",
+        "no": "Å transformere urbane rom til grønne tilfluktssteder kan revolusjonere våre byer. La oss bygge en bærekraftig fremtid sammen!"
+      },
+      "publicComments": [
+        {
+          "commentId": "2001",
+          "text": {
+            "en": "Absolutely agree! We need more green spaces in our cities. #GreenCities",
+            "sv": "Håller helt med! Vi behöver fler gröna ytor i våra städer. #GrönaStäder",
+            "fr": "Absolument d'accord! Nous avons besoin de plus d'espaces verts dans nos villes. #VillesVertes",
+            "no": "Helt enig! Vi trenger flere grøntarealer i byene våre. #GrønneByer"
+          },
+          "likes": 180
+        },
+        {
+          "commentId": "2002",
+          "text": {
+            "en": "It's not just about aesthetics, it's about sustainability. #SustainableDevelopment",
+            "sv": "Det handlar inte bara om estetik, det handlar om hållbarhet. #HållbarUtveckling",
+            "fr": "Il ne s'agit pas seulement d'esthétique, il s'agit de durabilité. #DéveloppementDurable",
+            "no": "Det handler ikke bare om estetikk, det handler om bærekraft. #BærekraftigUtvikling"
+          },
+          "likes": 205
+        }
+      ],
+      "disseminationTactic": "Inspirational",
+      "credibilityRating": 4,
+      "followerCount": 200,
+      "isSparkingDebate": true
     }
   ]
 }
+
