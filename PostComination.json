@@ -1,0 +1,89 @@
+{
+  "postCombinations": [
+    {
+      "combinationId": "combo1",
+      "posts": [
+        {
+          "postId": "01",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 10,
+              "publicAwareness": 5,
+              "industryReaction": -3
+            }
+          }
+        },
+        {
+          "postId": "02",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 8,
+              "publicAwareness": 7,
+              "industryReaction": -2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "combinationId": "combo2",
+      "posts": [
+        {
+          "postId": "01",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 10,
+              "publicAwareness": 5,
+              "industryReaction": -3
+            }
+          }
+        },
+        {
+          "postId": "03",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 6,
+              "publicAwareness": 9,
+              "industryReaction": -1
+            }
+          }
+        },
+        {
+          "postId": "04",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 4,
+              "publicAwareness": 10,
+              "industryReaction": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "combinationId": "combo3",
+      "posts": [
+        {
+          "postId": "02",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 8,
+              "publicAwareness": 7,
+              "industryReaction": -2
+            }
+          }
+        },
+        {
+          "postId": "05",
+          "eventTriggers": {
+            "onSelect": {
+              "environmentImpact": 7,
+              "publicAwareness": 6,
+              "industryReaction": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
